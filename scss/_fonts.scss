@@ -1,0 +1,41 @@
+@import "compass";
+@import "compass/css3";
+
+@include font-face(
+	"Helvetica Neue Condensed", 
+	font-files(
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-Cn.svg",
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-Cn.ttf",
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-Cn.woff",
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-Cn.otf"
+		),
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-Cn.eot",
+		normal,
+		normal
+	);
+
+@include font-face(
+	"Helvetica Neue Condensed", 
+	font-files(
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-BdCn.svg",
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-BdCn.ttf",
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-BdCn.woff",
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-BdCn.otf"
+		),
+		"../fonts/HelveticaNeueCondensed/HelveticaNeueLTStd-BdCn.eot",
+		bold,
+		normal
+	);
+
+@include font-face(
+	"Glyphicons", 
+	font-files(
+		"../fonts/glyphicons/glyphicons-halflings-regular.svg",
+		"../fonts/glyphicons/glyphicons-halflings-regular.ttf",
+		"../fonts/glyphicons/glyphicons-halflings-regular.woff",
+		"../fonts/glyphicons/glyphicons-halflings-regular.woff2"
+		),
+		"../fonts/glyphicons/glyphicons-halflings-regular.eot",
+		bold,
+		normal
+	);

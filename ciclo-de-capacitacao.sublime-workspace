@@ -1,0 +1,1225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"T",
+				"TimelineMax"
+			],
+			[
+				"targ",
+				"targetName"
+			],
+			[
+				"scr",
+				"scrollTarget"
+			],
+			[
+				"bo",
+				"boxScroll"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"v",
+				"vHeight"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"_t",
+				"_tBottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"sc",
+				"scrollTarget"
+			],
+			[
+				"S",
+				"scrollTo"
+			],
+			[
+				"pie",
+				"piece4	 _main.scss"
+			],
+			[
+				"gray",
+				"gray-lighter	 _main.scss"
+			],
+			[
+				"gra",
+				"gray-lighter	 _main.scss"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"trasfor",
+				"transform-origin"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"sco",
+				"score-container	 _avaliacao.scss"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ava",
+				"avaliacao-header	 _avaliacao.scss"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"mo",
+				"mobile-menu	 _menu.scss"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"p",
+				"preventDefault"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ex",
+				"expand"
+			],
+			[
+				"css",
+				"cssmin"
+			],
+			[
+				"html",
+				"htmlbuild"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"f",
+				"for	@for"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"scree",
+				"screen-sm-max"
+			],
+			[
+				"dark",
+				"dark-red"
+			],
+			[
+				"ligh",
+				"light-gray"
+			],
+			[
+				"fo",
+				"float"
+			],
+			[
+				"light",
+				"light-gray"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"tabl",
+				"table-row"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"da",
+				"dark-orange"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"border",
+				"border-bottom: "
+			],
+			[
+				"margi",
+				"margin-bottom: "
+			],
+			[
+				"blu",
+				"blue-dark"
+			],
+			[
+				"fade",
+				"fade-out	Sass-function"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"f-",
+				"f-size-xl"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"c-",
+				"c-text"
+			],
+			[
+				"conta",
+				"contato-header"
+			],
+			[
+				"hea",
+				"header-links"
+			],
+			[
+				"att",
+				"attribute_value"
+			],
+			[
+				"skip",
+				"skip-active"
+			],
+			[
+				"heade",
+				"header-info"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"se",
+				"search-button"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"f-size",
+				"f-size-xxl"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tex-al",
+				"text-align"
+			],
+			[
+				"home",
+				"home-subtitle"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"mak",
+				"make-md-column-offset"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"bra",
+				"brand-warning"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"make-md",
+				"make-md-column-offset"
+			],
+			[
+				"the_",
+				"the_content"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"nav",
+				"NAV	Tag"
+			],
+			[
+				"wp_menu",
+				"wp_nav_menu	wp_nav_menu All Options"
+			],
+			[
+				"make",
+				"make-md-column"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"blue",
+				"blue-dark"
+			],
+			[
+				"hi",
+				"hidden-sm"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"_curr",
+				"_currentButton"
+			],
+			[
+				"get",
+				"getEl"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"_",
+				"_currentButton"
+			],
+			[
+				"_cu",
+				"_currentButton"
+			],
+			[
+				"me",
+				"_menuActive"
+			],
+			[
+				"_menu",
+				"_menuActive"
+			],
+			[
+				"_me",
+				"_menuActive"
+			],
+			[
+				"op",
+				"openMenu"
+			],
+			[
+				"sp",
+				"speech"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12636,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_main.scss",
+			"settings":
+			{
+				"buffer_size": 7838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 3878,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielscarpim/Desktop/Ciclo de Capacitação/site/scss/_fonts.scss",
+		"/Users/danielscarpim/Desktop/Ciclo de Capacitação/site/package.json",
+		"/Users/danielscarpim/Desktop/Ciclo de Capacitação/site/scss/styles.scss",
+		"/Users/danielscarpim/Desktop/Approach de Vendas/site/Gruntfile.js",
+		"/Users/danielscarpim/Desktop/Approach de Vendas/site/scss/_variables.scss",
+		"/Users/danielscarpim/Desktop/Approach de Vendas/site/scss/styles.scss",
+		"/Users/danielscarpim/Desktop/Approach de Vendas/site/ciclo-de-capacitacao.sublime-project",
+		"/Users/danielscarpim/Desktop/Approach de Vendas/site/scss/_fonts.scss",
+		"/Users/danielscarpim/Desktop/Approach de Vendas/site/js/main.js",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/dist/acesso_curso.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/layout/footer.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/grade.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/home.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_banner.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_header.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/acesso_curso.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/avaliacao.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/js/app.js",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/Gruntfile.js",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/fonts/icons-f2a9f123ddb6725265f466fc2ea53d70 (1).woff",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/home.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/login.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/grade.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/dist/grade.html",
+		"/templates/grade2.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/dist/home.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/layout/head.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/index.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/pages/grade.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/views/home.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/templates/header.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_trainings.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_base.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/login.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/acesso_curso.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/avaliacao.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_avaliacao.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_menu.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/js/main.js",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_footer.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/login.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/bootstrap/bootstrap.scss",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/public/var/report/777411386075",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/public/.htaccess",
+		"/Users/danielscarpim/Desktop/_regisbike/scotch-box/public/.htaccess",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/public/var/report/757291651465",
+		"/Users/danielscarpim/Desktop/_regisbike/scotch-box/public/app/etc/local.xml",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/public/var/report/1386690418388",
+		"/Users/danielscarpim/Desktop/_regisbike/scotch-box/Vagrantfile",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/Vagrantfile",
+		"/Users/danielscarpim/Downloads/AppNee.com.Adobe.CS6.Universal.Keygen.X-Force.for.Mac/disable_activation_osx",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/SCSS.sublime-settings",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_variables.scss",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/css_style_completions.sublime-settings",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/main.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_home.scss",
+		"/Users/danielscarpim/Desktop/regisbike/scotch-box/public/var/report/1200796949115",
+		"/Users/danielscarpim/Desktop/bmw_site/sass/_planoDesenvolvimento.scss",
+		"/Users/danielscarpim/Desktop/bmw_site/acesso_curso.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/treinamento.html",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/scss/_core-override.scss",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/.jshintignore",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/js/libs/jquery-1.11.3.min.js",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/danielscarpim/Desktop/PG Sales Brazil/LMS/config.rb",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/danielscarpim/Desktop/LMS_P&G/.jshintignore",
+		"/Users/danielscarpim/Desktop/LMS_P&G/.gitignore",
+		"/Users/danielscarpim/Desktop/LMS_P&G/.test",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/scss/main.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/.git/config",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/.gitignore",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/gitignore",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/.git/config",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/scss/_treinamentos.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/scss/_footer.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/Gruntfile.js",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/fonts/FrutigerLTStd-Roman.ttf",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/scss/bootstrap/_variables.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/scss/login.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/css/_main.css",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/images/bg-wrapper-blue.png",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/package.json",
+		"/C/Users/dscarpim.HCDN/Desktop/LMS_P&G/scss/_banner.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/skin/frontend/regisbike/default/scss/module/_cms.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/view/media.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/skin/frontend/regisbike/default/scss/layout/_header.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/page/html/breadcrumbs.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/page/html/footer.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/code/local/Mage/Catalog/Helper/Product/Compare.php",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/layout/local.xml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/page/html/footer-certificate.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/list/related.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/list-home.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/Gruntfile.js",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/skin/frontend/regisbike/default/scss/_var.scss",
+		"//lion/PROJETOS_2015/5014000_BMW/APOIO/ASSINATURAS/Aline Stefanote.psd",
+		"//lion/PROJETOS_2015/5014000_BMW/APOIO/ASSINATURAS/Luca.psd",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/skin/frontend/regisbike/default/scss/layout/_footer.scss",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/ma2_slideshow/slideshow.phtml",
+		"/C/Users/dscarpim.HCDN/BTSync/LG/CONHECENDO_O_PROCESSO_DE_COMPRAS/GRAFICO_FINALIZADO/xml/config.xml",
+		"/C/Users/dscarpim.HCDN/BTSync/ABBOTT/GRAFICO_FINALIZADO/ElearningVS4.html",
+		"/C/Users/dscarpim.HCDN/BTSync/ABBOTT/GRAFICO_FINALIZADO/xml/config.xml",
+		"/C/Users/dscarpim.HCDN/BTSync/ABBOTT/GRAFICO_FINALIZADO/index.html",
+		"/C/Users/dscarpim.HCDN/Desktop/Teste de apresentação (Web)/Original/imsmanifest.xml",
+		"/C/Users/dscarpim.HCDN/Desktop/Teste de apresentação (Web)/Original/index.html",
+		"/C/Users/dscarpim.HCDN/Desktop/Teste de apresentação (Web)/Original/ElearningVS4.html",
+		"/C/Users/dscarpim.HCDN/BTSync/ABBOTT/GRAFICO_FINALIZADO/imsmanifest.xml",
+		"/C/Users/dscarpim.HCDN/Desktop/Teste de apresentação (Web)/index.html",
+		"/C/Users/dscarpim.HCDN/BTSync/LG/CONHECENDO_O_PROCESSO_DE_COMPRAS/GRAFICO_FINALIZADO/ElearningVS4.html",
+		"/C/Users/dscarpim.HCDN/Dropbox/BZA/Hotsite/vivaparaiso.sql",
+		"//lion/PROJETOS_2015/5014000_BMW/DESENVOLVIMENTO/TREINAMENTOS/PRESENCIAL/RELACIONAMENTO COM O CLIENTE/MATERIAIS DE APOIO/CARTA DE BOAS VINDAS/Material/Lista turma 1.txt",
+		"/C/Users/dscarpim.HCDN/BTSync/LG/LG_CONHECENDO_O_PROCESSO_DE_COMPRAS/GRAFICO_FINALIZADO/ElearningVS4.html",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/.gitignore",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/.git/index",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/.git/HEAD",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/Apptrian_Minify_HTML_CSS_JS-1.1.2/package.xml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/view/type/availability/default.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/code/community/Flagbit/FilterUrls/Model/Catalog/Layer/Filter/Item.php",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/code/local/Mage/Catalog/Model/Layer/Filter/Item.php",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/view/type/availiability/default.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/price.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/view/resumoparcelas.phtml",
+		"/C/Users/dscarpim.HCDN/Desktop/regisbike/scotch-box/public/app/design/frontend/regisbike/default/template/catalog/product/mostviewed.phtml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\vivaparaiso"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HelveticaNeueLTStd-BdCn",
+			"bootstrap",
+			"60px",
+			"10px",
+			"span",
+			"time",
+			"reverse",
+			"seek",
+			"reverse",
+			"left",
+			"tLeft",
+			"left",
+			"tLeft",
+			"left",
+			"55",
+			"-40%",
+			"a",
+			"none",
+			"piece",
+			"li",
+			"ul",
+			"robotoslab-bold-webfont",
+			"robotoslab-regular-webfont",
+			"roboto-slab",
+			"b",
+			"form",
+			"span",
+			"p",
+			"white",
+			"light",
+			"medium",
+			"span",
+			"strong",
+			"title",
+			"th",
+			"thead",
+			"tr",
+			"pg-",
+			"<a class=\"more\" href=\"#\">Acesse</a>",
+			"div",
+			"p",
+			"div",
+			"100",
+			"ul",
+			"gray-lighter",
+			"blue-light",
+			"blue-dark",
+			"gray-light",
+			"gray-lighter",
+			"10",
+			"a",
+			"bmw",
+			";\n",
+			"src",
+			"main",
+			"span",
+			"data",
+			"0",
+			"blue-dark",
+			"yellow",
+			"blue-light",
+			"blue-dark",
+			"yellow",
+			"blue-light",
+			"gray-lighter",
+			"blue-dark",
+			"color1",
+			"gray-lighter",
+			"green",
+			"orange",
+			"blue",
+			"bmw",
+			"BMW",
+			"bmw",
+			"BMW",
+			"bmw",
+			"BMW",
+			"bmw",
+			"BMW",
+			"bmw",
+			"Roman",
+			"div",
+			"section",
+			"imgs",
+			"bmw",
+			"http://www.onecbdbrazil.com.br",
+			"40",
+			"60",
+			"skip",
+			"h2",
+			"add-to-cart-box",
+			"add-to-cart",
+			"more",
+			"dl",
+			"laye",
+			"item",
+			"span class=\"price\"",
+			"span",
+			"skip-link",
+			"header-info",
+			"progr",
+			"menu-active",
+			"no-tou",
+			"no-t",
+			"inhe",
+			"serif",
+			"box-mo",
+			"segurado",
+			"peso",
+			"bic",
+			"or",
+			"empty cart",
+			"estimate",
+			"accordionCollapse",
+			"getInfoParcelamento",
+			"parcelamento",
+			"Parcelamento",
+			"parcelamento",
+			"Parcelamento",
+			"parcelamento",
+			"Parcelamento",
+			"parcelamento",
+			"Parcelamento",
+			"parcelamento",
+			"Parcelamento",
+			"parcelamento",
+			"getChildHTML(",
+			"getChildHTML()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dark-blue",
+			"dark-orange",
+			"light-blue",
+			"dark-blue",
+			"dark-orange",
+			"light-blue",
+			"light-gray",
+			"dark-blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 12636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								762
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/_main.scss",
+					"settings":
+					{
+						"buffer_size": 7838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5472,
+								5472
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5923.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 3878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3737,
+								3737
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1367.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 50.0
+	},
+	"output.sftp":
+	{
+		"height": 125.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"skin/frontend/regisbike/default/scss/layout/_header.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
